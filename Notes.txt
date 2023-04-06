@@ -1,0 +1,1 @@
+Inside the html file in the folder root is a consolidation of each day's sketches and some simple descriptions, such as what key interactions are available.
