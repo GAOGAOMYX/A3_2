@@ -1,1 +1,3 @@
 Inside the html file in the folder root is a consolidation of each day's sketches and some simple descriptions, such as what key interactions are available.
+
+I am using a resolution of 2560*1440. Because I did not do a special resolution adaptation, the site may appear to have strange typography. You can change the browser scaling to change it.
